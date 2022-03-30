@@ -11,6 +11,6 @@ The countdown timer is implemented using a 500ms delay which is run 10 times. As
 
 ![Screenshot](img/flowchart.png "Program Flowchart")
 
-Breadboard implementation: 
+### Breadboard implementation: 
 
 ![Screenshot](img/breadboard.jpg)
